@@ -39,7 +39,7 @@ I'm able to organzie my code in a way that makes styling the page easier.
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5 markup
 - CSS custom properties
 - Flexbox
 - JavaScript
